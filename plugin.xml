@@ -90,7 +90,7 @@
     <!-- ios -->
     <platform name="ios">
         <!-- GoogleMobileAds.framework in dependency plugin: cordova-admobsdk, > 100MB -->
-        <dependency id="cordova-admobsdk" version="~7.49.0"/>
+        <dependency id="cordova-admobsdk" version="~7.59.0"/>
 
         <config-file target="config.xml" parent="/*">
             <feature name="AdMob">
